@@ -18,7 +18,7 @@
     <sonar.projectKey>Aleeexgc_sisPagosJUnit</sonar.projectKey>
     <sonar.organization>aleeexgc</sonar.organization>
     <sonar.host.url>https://sonarcloud.io</sonar.host.url>
-    <sonar.login>87764c4feb8a9df2033b26ce0aa8ca4cae455e3a</sonar.login>
+    <sonar.login>b5f2470f8586d4ff63d9c159bf9364da4e1a2e1a</sonar.login>
   </properties>
 
   <dependencies>
